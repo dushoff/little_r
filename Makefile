@@ -6,7 +6,6 @@ target pngtarget pdftarget vtarget acrtarget: notarget
 
 ##################################################################
 
-
 # make files
 
 Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
@@ -15,6 +14,10 @@ include stuff.mk
 ##################################################################
 
 ## Content
+
+## First public talk (and the occasion for making public repo)
+
+Sources += clearwater.pdf
 
 ######################################################################
 
