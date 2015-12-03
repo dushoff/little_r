@@ -16,8 +16,10 @@ include stuff.mk
 ## Content
 
 ## First public talk (and the occasion for making public repo)
-
 Sources += clearwater.pdf
+
+## Notes on estimating intrinsic generation intervals early
+Sources += intrinsic_gamma.md
 
 ######################################################################
 
